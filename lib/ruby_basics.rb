@@ -21,7 +21,7 @@ def return_a_value (nice)
 end
 
 def last_evaluated_value (expert)
-  return expert
+  puts "expert"
 
 end
 
