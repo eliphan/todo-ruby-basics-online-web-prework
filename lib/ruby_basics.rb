@@ -1,27 +1,31 @@
 def division(num1, num2)
- 
+ puts num1/num2
 end
 
 def assign_variable(value)
+  puts value
+end
+
+def argue (ment)
+  return ment
   
 end
 
-def argue
-  
+def greeting (greet1, greet2)
+ 
 end
 
-def greeting
-
-end
-
-def return_a_value
+def return_a_value ("Nice")
+  puts "Nice"
 
 end
 
-def last_evaluated_value
+def last_evaluated_value (expert)
+  return expert
 
 end
 
-def pizza_party
+def pizza_party (arg)
+  return arg
 
 end
