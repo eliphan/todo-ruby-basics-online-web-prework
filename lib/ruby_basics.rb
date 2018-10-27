@@ -15,12 +15,12 @@ def greeting (greet1, greet2)
  
 end
 
-def return_a_value (nice)
+def return_a_value
   return "Nice"
 
 end
 
-def last_evaluated_value (expert)
+def last_evaluated_value
   return "expert"
 
 end
