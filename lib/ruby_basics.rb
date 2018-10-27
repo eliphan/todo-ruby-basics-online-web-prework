@@ -15,7 +15,7 @@ def greeting (greet1, greet2)
  
 end
 
-def return_a_value ("Nice")
+def return_a_value (nice)
   puts "Nice"
 
 end
