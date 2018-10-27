@@ -1,6 +1,6 @@
 def division(num1, num2)
   num1 = 42
-  num2= 7
+  num2= 6
  puts num1 / num2
 end
 
