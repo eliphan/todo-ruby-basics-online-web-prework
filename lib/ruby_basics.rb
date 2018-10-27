@@ -4,6 +4,7 @@ end
 
 def assign_variable (value)
   value = name
+  puts value
 end
 
 def argue (ment)
