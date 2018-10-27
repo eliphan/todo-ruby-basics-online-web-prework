@@ -2,8 +2,8 @@ def division(num1, num2)
  puts num1 / num2
 end
 
-def assign_variable (name)
-  name = John
+def assign_variable (value)
+  value = name
 end
 
 def argue (ment)
